@@ -1,0 +1,405 @@
+\begin{thebibliography}{-------}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Farberg and Rigel(2017)]{Farberg2017a}
+Farberg, A.S.; Rigel, D.S.
+\newblock {The Importance of Early Recognition of Skin Cancer},  2017.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.det.2017.06.019}{\detokenize{10.1016/j.det.2017.06.019}}}.
+
+\bibitem[Sinz \em{et~al.}(2017)Sinz, Tschandl, Rosendahl, Akay, Argenziano,
+  Blum, Braun, Cabo, Gourhant, Kreusch, Lallas, Lapins, Marghoob, Menzies,
+  Paoli, Rabinovitz, Rinner, Scope, Soyer, Thomas, Zalaudek, and
+  Kittler]{Sinz2017}
+Sinz, C.; Tschandl, P.; Rosendahl, C.; Akay, B.N.; Argenziano, G.; Blum, A.;
+  Braun, R.P.; Cabo, H.; Gourhant, J.Y.; Kreusch, J.; Lallas, A.; Lapins, J.;
+  Marghoob, A.A.; Menzies, S.W.; Paoli, J.; Rabinovitz, H.S.; Rinner, C.;
+  Scope, A.; Soyer, H.P.; Thomas, L.; Zalaudek, I.; Kittler, H.
+\newblock {Accuracy of dermatoscopy for the diagnosis of nonpigmented cancers
+  of the skin}.
+\newblock {\em Journal of the American Academy of Dermatology} {\bf 2017}, {\em
+  77},~1100--1109.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jaad.2017.07.022}{\detokenize{10.1016/j.jaad.2017.07.022}}}.
+
+\bibitem[Iyatomi \em{et~al.}(2010)Iyatomi, Norton, Celebi, Schaefer, Tanaka,
+  and Ogawa]{Iyatomi2010}
+Iyatomi, H.; Norton, K.A.; Celebi, M.E.; Schaefer, G.; Tanaka, M.; Ogawa, K.
+\newblock {Classification of melanocytic skin lesions from non-melanocytic
+  lesions}.
+\newblock {\em 2010 Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society, EMBC'10} {\bf 2010}, pp. 5407--5410.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/IEMBS.2010.5626500}{\detokenize{10.1109/IEMBS.2010.5626500}}}.
+
+\bibitem[Rastgoo \em{et~al.}(2015)Rastgoo, Garcia, Morel, and
+  Marzani]{Rastgoo2015}
+Rastgoo, M.; Garcia, R.; Morel, O.; Marzani, F.
+\newblock {Automatic differentiation of melanoma from dysplastic nevi}.
+\newblock {\em Computerized Medical Imaging and Graphics} {\bf 2015}, {\em
+  43},~44--52.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.compmedimag.2015.02.011}{\detokenize{10.1016/j.compmedimag.2015.02.011}}}.
+
+\bibitem[Pathan \em{et~al.}(2018)Pathan, Prabhu, and
+  Siddalingaswamy]{Pathan2018}
+Pathan, S.; Prabhu, K.G.; Siddalingaswamy, P.C.
+\newblock {Techniques and algorithms for computer aided diagnosis of pigmented
+  skin lesions—A review}.
+\newblock {\em Biomedical Signal Processing and Control} {\bf 2018}, {\em
+  39},~237--262.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.bspc.2017.07.010}{\detokenize{10.1016/j.bspc.2017.07.010}}}.
+
+\bibitem[Esteva \em{et~al.}(2017)Esteva, Kuprel, Novoa, Ko, Swetter, Blau, and
+  Thrun]{Esteva2017}
+Esteva, A.; Kuprel, B.; Novoa, R.A.; Ko, J.; Swetter, S.M.; Blau, H.M.; Thrun,
+  S.
+\newblock {Dermatologist-level classification of skin cancer with deep neural
+  networks}.
+\newblock {\em Nature} {\bf 2017}, {\em 542},~115--118,
+  \href{http://xxx.lanl.gov/abs/arXiv:1011.1669v3}{{\normalfont
+  [arXiv:1011.1669v3]}}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1038/nature21056}{\detokenize{10.1038/nature21056}}}.
+
+\bibitem[Deng \em{et~al.}(2009)Deng, Dong, Socher, Li, Li, and
+  Fei-Fei]{Deng2008}
+Deng, J.; Dong, W.; Socher, R.; Li, L.J.; Li, K.; Fei-Fei, L.
+\newblock {ImageNet: A large-scale hierarchical image database}.
+\newblock  2009 IEEE Conference on Computer Vision and Pattern Recognition,
+  2009, Vol. 283, pp. 248--255.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/CVPR.2009.5206848}{\detokenize{10.1109/CVPR.2009.5206848}}}.
+
+\bibitem[Kolm and Braun(2012)]{Kolm2012}
+Kolm, I.; Braun, R.P.
+\newblock {How reflectance confocal microscopy works}.
+\newblock {\em Reflectance Confocal Microscopy for Skin Diseases} {\bf 2012},
+  pp. 7--10.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/978-3-642-21997-9_2}{\detokenize{10.1007/978-3-642-21997-9_2}}}.
+
+\bibitem[Nehal \em{et~al.}(2008)Nehal, Gareau, and Rajadhyaksha]{Nehal2008a}
+Nehal, K.S.; Gareau, D.; Rajadhyaksha, M.
+\newblock {Skin imaging with reflectance confocal microscopy.}
+\newblock {\em Seminars in cutaneous medicine and surgery} {\bf 2008}, {\em
+  27},~37--43.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.sder.2008.01.006}{\detokenize{10.1016/j.sder.2008.01.006}}}.
+
+\bibitem[Haroon \em{et~al.}(2017)Haroon, Shafi, and Rao]{Haroon2017}
+Haroon, A.; Shafi, S.; Rao, B.K.
+\newblock {Using Reflectance Confocal Microscopy in Skin Cancer Diagnosis}.
+\newblock {\em Dermatologic Clinics} {\bf 2017}, {\em 35},~457--464.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.det.2017.06.007}{\detokenize{10.1016/j.det.2017.06.007}}}.
+
+\bibitem[Dinnes \em{et~al.}(2018)Dinnes, Deeks, Saleh, Chuchu, Bayliss, Patel,
+  Davenport, Takwoingi, Godfrey, Matin, Patalay, and Williams]{Dinnes2018}
+Dinnes, J.; Deeks, J.J.; Saleh, D.; Chuchu, N.; Bayliss, S.E.; Patel, L.;
+  Davenport, C.; Takwoingi, Y.; Godfrey, K.; Matin, R.N.; Patalay, R.;
+  Williams, H.C.
+\newblock {Reflectance confocal microscopy for diagnosing cutaneous melanoma in
+  adults}.
+\newblock {\em Cochrane Database of Systematic Reviews} {\bf 2018}, {\em 2018}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1002/14651858.CD013190}{\detokenize{10.1002/14651858.CD013190}}}.
+
+\bibitem[Lupu \em{et~al.}(2019)Lupu, Popa, Voiculescu, Caruntu, and
+  Caruntu]{Lupu2019}
+Lupu.; Popa.; Voiculescu.; Caruntu.; Caruntu.
+\newblock {A Systematic Review and Meta-Analysis of the Accuracy of in
+  VivoReflectance Confocal Microscopy for the Diagnosis of Primary Basal Cell
+  Carcinoma}.
+\newblock {\em Journal of Clinical Medicine} {\bf 2019}, {\em 8},~1462.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.3390/jcm8091462}{\detokenize{10.3390/jcm8091462}}}.
+
+\bibitem[Batta \em{et~al.}(2015)Batta, Kessler, White, Zhu, and Fox]{Batta2015}
+Batta, M.M.; Kessler, S.E.; White, P.F.; Zhu, W.; Fox, C.A.
+\newblock {Reflectance confocal microscopy: An overview of technology and
+  advances in telepathology}.
+\newblock {\em Cutis} {\bf 2015}, {\em 95},~E39--E46.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/S0040-6090(02)00980-X}{\detokenize{10.1016/S0040-6090(02)00980-X}}}.
+
+\bibitem[Freeman \em{et~al.}(2018)Freeman, Semeere, Osman, Peterson,
+  Rajadhyaksha, Gonz{\'{a}}lez, Martin, Anderson, Tearney, and
+  Kang]{Freeman2018}
+Freeman, E.E.; Semeere, A.; Osman, H.; Peterson, G.; Rajadhyaksha, M.;
+  Gonz{\'{a}}lez, S.; Martin, J.N.; Anderson, R.R.; Tearney, G.J.; Kang, D.
+\newblock {Smartphone confocal microscopy for imaging cellular structures in
+  human skin in vivo}.
+\newblock {\em Biomedical Optics Express} {\bf 2018}, {\em 9},~1906--1915.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1364/BOE.9.001906}{\detokenize{10.1364/BOE.9.001906}}}.
+
+\bibitem[Somoza \em{et~al.}(2014)Somoza, Cula, Correa, and Hirsch]{Somoza2014}
+Somoza, E.; Cula, G.O.; Correa, C.; Hirsch, J.B.
+\newblock {Automatic Localization of Skin Layers in Reflectance Confocal
+  Microscopy}.
+\newblock  Image Analysis and Recognition; Campilho, A.; Kamel, M., Eds.;
+  Springer International Publishing: Cham,  2014; pp. 141--150.
+
+\bibitem[Hames \em{et~al.}(2016)Hames, Ardig{\`{o}}, Soyer, Bradley, and
+  Prow]{Hames2016}
+Hames, S.C.; Ardig{\`{o}}, M.; Soyer, H.P.; Bradley, A.P.; Prow, T.W.
+\newblock {Automated segmentation of skin strata in Reflectance confocal
+  microscopy depth stacks}.
+\newblock {\em PLoS ONE} {\bf 2016}, {\em 11},~1--12.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1371/journal.pone.0153208}{\detokenize{10.1371/journal.pone.0153208}}}.
+
+\bibitem[Gareau \em{et~al.}(2010)Gareau, Hennessy, Wan, Pellacani, and
+  Jacques]{Gareau2010}
+Gareau, D.; Hennessy, R.; Wan, E.; Pellacani, G.; Jacques, S.L.
+\newblock {Automated detection of malignant features in confocal microscopy on
+  superficial spreading melanoma versus nevi}.
+\newblock {\em Journal of Biomedical Optics} {\bf 2010}, {\em 15},~061713.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1117/1.3524301}{\detokenize{10.1117/1.3524301}}}.
+
+\bibitem[Wiltgen \em{et~al.}(2008)Wiltgen, Gerger, Wagner, and
+  Smolle]{Wiltgen2008}
+Wiltgen, M.; Gerger, A.; Wagner, C.; Smolle, J.
+\newblock {Automatic identification of diagnostic significant regions in
+  confocal laser scanning microscopy of melanocytic skin tumors}.
+\newblock {\em Methods of Information in Medicine} {\bf 2008}, {\em
+  47},~14--25.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.3414/ME0463}{\detokenize{10.3414/ME0463}}}.
+
+\bibitem[Haralick \em{et~al.}(1973)Haralick, Dinstein, and
+  Shanmugam]{Haralick1973}
+Haralick, R.M.; Dinstein, I.; Shanmugam, K.
+\newblock {Textural Features for Image Classification}.
+\newblock {\em IEEE Transactions on Systems, Man and Cybernetics} {\bf 1973},
+  {\em SMC-3},~610--621.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/TSMC.1973.4309314}{\detokenize{10.1109/TSMC.1973.4309314}}}.
+
+\bibitem[Halimi \em{et~al.}(2017)Halimi, Batatia, {Le Digabel}, Josse, and
+  Tourneret]{Halimi2017a}
+Halimi, A.; Batatia, H.; {Le Digabel}, J.; Josse, G.; Tourneret, J.Y.
+\newblock {Wavelet-based statistical classification of skin images acquired
+  with reflectance confocal microscopy}.
+\newblock {\em Biomedical Optics Express} {\bf 2017}, {\em 8},~5450--5467,
+  \href{http://xxx.lanl.gov/abs/1410.2596}{{\normalfont [1410.2596]}}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1364/boe.8.005450}{\detokenize{10.1364/boe.8.005450}}}.
+
+\bibitem[Cendre \em{et~al.}(2019)Cendre, Mansouri, Perrot, Cinotti, Benezeth,
+  and Marzani]{Cendre2019a}
+Cendre, R.; Mansouri, A.; Perrot, J.l.; Cinotti, E.; Benezeth, Y.; Marzani, F.
+\newblock {Two schemes for automated diagnosis of Lentigo on Confocal
+  Microscopy images}.
+\newblock  ICSIP,  2019.
+
+\bibitem[Mataca \em{et~al.}(2018)Mataca, Migaldi, and Cesinaro]{Mataca2018}
+Mataca, E.; Migaldi, M.; Cesinaro, A.M.
+\newblock {Impact of Dermoscopy and Reflectance Confocal Microscopy on the
+  Histopathologic Diagnosis of Lentigo Maligna/Lentigo Maligna Melanoma.}
+\newblock {\em The American Journal of dermatopathology} {\bf 2018}, {\em
+  40},~884--889.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1097/DAD.0000000000001212}{\detokenize{10.1097/DAD.0000000000001212}}}.
+
+\bibitem[Navarrete-Dechent \em{et~al.}(2019)Navarrete-Dechent, Cordova,
+  Aleissa, Liopyris, Dusza, Kose, Busam, Hollman, Lezcano, Pulitzer, Chen, Lee,
+  Rossi, and Nehal]{NAVARRETEDECHENT2019}
+Navarrete-Dechent, C.; Cordova, M.; Aleissa, S.; Liopyris, K.; Dusza, S.W.;
+  Kose, K.; Busam, K.J.; Hollman, T.; Lezcano, C.; Pulitzer, M.; Chen, C.S.J.;
+  Lee, E.H.; Rossi, A.M.; Nehal, K.S.
+\newblock {Lentigo maligna melanoma mapping using reflectance confocal
+  microscopy correlates with staged excision: A prospective study.}
+\newblock {\em Journal of the American Academy of Dermatology} {\bf 2019}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/https://doi.org/10.1016/j.jaad.2019.11.058}{\detokenize{https://doi.org/10.1016/j.jaad.2019.11.058}}}.
+
+\bibitem[Robinson \em{et~al.}(2019)Robinson, Primiero, Guitera, Hong, Scolyer,
+  Stretch, Strutton, Thompson, and Soyer]{Robinson2019}
+Robinson, M.; Primiero, C.; Guitera, P.; Hong, A.; Scolyer, R.A.; Stretch,
+  J.R.; Strutton, G.; Thompson, J.F.; Soyer, H.P.
+\newblock {Evidence-Based Clinical Practice Guidelines for the Management of
+  Patients with Lentigo Maligna.}
+\newblock {\em Dermatology (Basel, Switzerland)} {\bf 2019}, pp. 1--6.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1159/000502470}{\detokenize{10.1159/000502470}}}.
+
+\bibitem[Hao \em{et~al.}(2019)Hao, Meng, and Li]{Hao2019}
+Hao, T.; Meng, X.F.; Li, C.X.
+\newblock {A meta-analysis comparing confocal microscopy and dermoscopy in
+  diagnostic accuracy of lentigo maligna.}
+\newblock {\em Skin research and technology : official journal of International
+  Society for Bioengineering and the Skin (ISBS) [and] International Society
+  for Digital Imaging of Skin (ISDIS) [and] International Society for Skin
+  Imaging (ISSI)} {\bf 2019}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1111/srt.12821}{\detokenize{10.1111/srt.12821}}}.
+
+\bibitem[Cinotti \em{et~al.}(2018)Cinotti, Labeille, Debarbieux, Carrera,
+  Lacarrubba, Witkowski, Moscarella, Arzberger, Kittler, Bahadoran, Gonzalez,
+  Guitera, Agozzino, Farnetani, Hofmann-Wellenhof, Ardig{\`{o}}, Rubegni,
+  Tognetti, {\L}udzik, Zalaudek, Argenziano, Longo, Ribero, Malvehy, Pellacani,
+  Cambazard, and Perrot]{Cinotti2018}
+Cinotti, E.; Labeille, B.; Debarbieux, S.; Carrera, C.; Lacarrubba, F.;
+  Witkowski, A.M.; Moscarella, E.; Arzberger, E.; Kittler, H.; Bahadoran, P.;
+  Gonzalez, S.; Guitera, P.; Agozzino, M.; Farnetani, F.; Hofmann-Wellenhof,
+  R.; Ardig{\`{o}}, M.; Rubegni, P.; Tognetti, L.; {\L}udzik, J.; Zalaudek, I.;
+  Argenziano, G.; Longo, C.; Ribero, S.; Malvehy, J.; Pellacani, G.; Cambazard,
+  F.; Perrot, J.L.
+\newblock {Dermoscopy vs. reflectance confocal microscopy for the diagnosis of
+  lentigo maligna}.
+\newblock {\em Journal of the European Academy of Dermatology and Venereology}
+  {\bf 2018}, {\em 32},~1284--1291.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1111/jdv.14791}{\detokenize{10.1111/jdv.14791}}}.
+
+\bibitem[Coelho(2012)]{coelho2012mahotas}
+Coelho, L.P.
+\newblock {Mahotas: Open source software for scriptable computer vision}.
+\newblock {\em arXiv preprint arXiv:1211.4907} {\bf 2012},
+  \href{http://xxx.lanl.gov/abs/1211.4907}{{\normalfont [1211.4907]}}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.5334/jors.ac}{\detokenize{10.5334/jors.ac}}}.
+
+\bibitem[Jones \em{et~al.}()Jones, Oliphant, Peterson, and Others]{Jones2001}
+Jones, E.; Oliphant, T.; Peterson, P.; Others.
+\newblock {{\{}SciPy{\}}: Open source scientific tools for {\{}Python{\}}}.
+
+\bibitem[Smach \em{et~al.}(2008)Smach, Lema{\^{i}}tre, Gauthier, Miteran, and
+  Atri]{Smach2008a}
+Smach, F.; Lema{\^{i}}tre, C.; Gauthier, J.P.; Miteran, J.; Atri, M.
+\newblock {Generalized fourier descriptors with applications to objects
+  recognition in SVM context}.
+\newblock {\em Journal of Mathematical Imaging and Vision} {\bf 2008}, {\em
+  30},~43--71.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s10851-007-0036-3}{\detokenize{10.1007/s10851-007-0036-3}}}.
+
+\bibitem[Canziani \em{et~al.}(2016)Canziani, Paszke, and
+  Culurciello]{Canziani2016}
+Canziani, A.; Paszke, A.; Culurciello, E.
+\newblock {An Analysis of Deep Neural Network Models for Practical
+  Applications} {\bf 2016}.
+\newblock pp. 1--7,  \href{http://xxx.lanl.gov/abs/1605.07678}{{\normalfont
+  [1605.07678]}}.
+
+\bibitem[Litjens \em{et~al.}(2017)Litjens, Kooi, Bejnordi, Setio, Ciompi,
+  Ghafoorian, van~der Laak, van Ginneken, and S{\'{a}}nchez]{Litjens2017}
+Litjens, G.; Kooi, T.; Bejnordi, B.E.; Setio, A.A.A.; Ciompi, F.; Ghafoorian,
+  M.; van~der Laak, J.A.; van Ginneken, B.; S{\'{a}}nchez, C.I.
+\newblock {A survey on deep learning in medical image analysis}.
+\newblock {\em Medical Image Analysis} {\bf 2017}, {\em 42},~60--88,
+  \href{http://xxx.lanl.gov/abs/1702.05747}{{\normalfont [1702.05747]}}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.media.2017.07.005}{\detokenize{10.1016/j.media.2017.07.005}}}.
+
+\bibitem[Simonyan and Zisserman(2014)]{Simonyan2014}
+Simonyan, K.; Zisserman, A.
+\newblock {Very Deep Convolutional Networks for Large-Scale Image Recognition}
+  {\bf 2014}.
+\newblock pp. 1--14,  \href{http://xxx.lanl.gov/abs/1409.1556}{{\normalfont
+  [1409.1556]}}.
+
+\bibitem[Szegedy \em{et~al.}(2015)Szegedy, Vanhoucke, Ioffe, Shlens, and
+  Wojna]{Szegedy2015}
+Szegedy, C.; Vanhoucke, V.; Ioffe, S.; Shlens, J.; Wojna, Z.
+\newblock {Rethinking the Inception Architecture for Computer Vision}.
+\newblock  Proceedings of the IEEE conference on computer vision and pattern
+  recognition,  2015, pp. 2818--2826,
+  \href{http://xxx.lanl.gov/abs/1512.00567}{{\normalfont [1512.00567]}}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/CVPR.2016.308}{\detokenize{10.1109/CVPR.2016.308}}}.
+
+\bibitem[He \em{et~al.}(2016)He, Zhang, Ren, and Sun]{He2016}
+He, K.; Zhang, X.; Ren, S.; Sun, J.
+\newblock {Deep residual learning for image recognition}.
+\newblock {\em Proceedings of the IEEE Computer Society Conference on Computer
+  Vision and Pattern Recognition} {\bf 2016}, {\em 2016-Decem},~770--778,
+  \href{http://xxx.lanl.gov/abs/1512.03385}{{\normalfont [1512.03385]}}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/CVPR.2016.90}{\detokenize{10.1109/CVPR.2016.90}}}.
+
+\bibitem[Szegedy \em{et~al.}(2017)Szegedy, Ioffe, Vanhoucke, and
+  Alemi]{Szegedy2017}
+Szegedy, C.; Ioffe, S.; Vanhoucke, V.; Alemi, A.A.
+\newblock {Inception-v4, inception-ResNet and the impact of residual
+  connections on learning}.
+\newblock {\em 31st AAAI Conference on Artificial Intelligence, AAAI 2017} {\bf
+  2017}, pp. 4278--4284,
+  \href{http://xxx.lanl.gov/abs/1602.07261}{{\normalfont [1602.07261]}}.
+
+\bibitem[Chollet and Others(2015)]{chollet2015keras}
+Chollet, F.; Others.
+\newblock {Keras},  2015.
+
+\bibitem[Foulds and Frank(2010)]{foulds_frank_2010}
+Foulds, J.; Frank, E.
+\newblock {A review of multi-instance learning assumptions}.
+\newblock {\em The Knowledge Engineering Review} {\bf 2010}, {\em 25},~1--25.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1017/S026988890999035X}{\detokenize{10.1017/S026988890999035X}}}.
+
+\bibitem[Graf and Borer(2001)]{Graf2001}
+Graf, A.B.A.; Borer, S.
+\newblock {Normalization in Support Vector Machines}.
+\newblock  Pattern Recognition; Radig, B.; Florczyk, S., Eds.; Springer Berlin
+  Heidelberg: Berlin, Heidelberg,  2001; pp. 277--282.
+
+\bibitem[Breiman(2001)]{Breiman2001}
+Breiman, L.
+\newblock {Random Forests}.
+\newblock {\em Machine Learning} {\bf 2001}, {\em 45},~5--32.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1023/A:1010933404324}{\detokenize{10.1023/A:1010933404324}}}.
+
+\bibitem[Geurts \em{et~al.}(2006)Geurts, Ernst, and Wehenkel]{Geurts2006}
+Geurts, P.; Ernst, D.; Wehenkel, L.
+\newblock {Extremely randomized trees}.
+\newblock {\em Machine Learning} {\bf 2006}, {\em 63},~3--42.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s10994-006-6226-1}{\detokenize{10.1007/s10994-006-6226-1}}}.
+
+\bibitem[Friedman(2000)]{Friedman2000}
+Friedman, J.
+\newblock {Greedy Function Approximation: A Gradient Boosting Machine}.
+\newblock {\em The Annals of Statistics} {\bf 2000}, {\em 29}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1214/aos/1013203451}{\detokenize{10.1214/aos/1013203451}}}.
+
+\bibitem[Kose \em{et~al.}(2016)Kose, Alessi-Fox, Gill, Dy, Brooks, and
+  Rajadhyaksha]{Kose2016b}
+Kose, K.; Alessi-Fox, C.; Gill, M.; Dy, J.G.; Brooks, D.H.; Rajadhyaksha, M.
+\newblock {A machine learning method for identifying morphological patterns in
+  reflectance confocal microscopy mosaics of melanocytic skin lesions in-vivo}.
+\newblock  2016, Vol. 9689, p. 968908.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1117/12.2212978}{\detokenize{10.1117/12.2212978}}}.
+
+\bibitem[Doran and Ray(2014)]{Doran2014}
+Doran, G.; Ray, S.
+\newblock {A theoretical and empirical analysis of support vector machine
+  methods for multiple-instance classification}.
+\newblock {\em Machine Learning} {\bf 2014}, {\em 97},~79--102.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s10994-013-5429-5}{\detokenize{10.1007/s10994-013-5429-5}}}.
+
+\bibitem[Cawley and Talbot(2010)]{Cawley2010}
+Cawley, G.C.; Talbot, N.L.
+\newblock {On Over-fitting in Model Selection and Subsequent Selection Bias in
+  Performance Evaluation}.
+\newblock {\em Journal of Machine Learning Research} {\bf 2010}, {\em
+  11},~2079--2107.
+
+\bibitem[Pedregosa \em{et~al.}(2011)Pedregosa, Varoquaux, Gramfort, Michel,
+  Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, and
+  Others]{pedregosa2011scikit}
+Pedregosa, F.; Varoquaux, G.; Gramfort, A.; Michel, V.; Thirion, B.; Grisel,
+  O.; Blondel, M.; Prettenhofer, P.; Weiss, R.; Dubourg, V.; Others.
+\newblock {Scikit-learn: Machine Learning in Python}.
+\newblock {\em Journal of machine learning research} {\bf 2011}, {\em
+  12},~2825--2830.
+
+\end{thebibliography}
